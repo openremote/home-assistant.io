@@ -125,7 +125,7 @@ Discovery uses mDNS. If Home Assistant runs on a different network or VLAN than 
 
 ### Entities are unavailable
 
-The Nymo could not be reached. Check that it is powered and connected to your home network. The entities become available again as soon as the Nymo responds.
+Either the Sensorbox could not be reached, or it has not been able to read the Nymo for more than 2 minutes. Check that both are powered, and that the Sensorbox is connected to your home network. The entities become available again as soon as the Nymo responds.
 
 ## Removing the integration
 
